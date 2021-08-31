@@ -1,0 +1,7 @@
+#Anything "//1" always rounds the expression to the nearest integer.(int() also rounds a float to the nearest integer.)
+
+
+name = ''
+while not name:
+	print('Enter your name:')
+	name = input()

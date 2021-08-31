@@ -1,0 +1,9 @@
+print('Type something')
+spam = input()
+if spam == 'k':
+    print('Hello!')
+elif spam == '2':
+    print('Howdy!')
+else:
+    print('Greetings!')
+
